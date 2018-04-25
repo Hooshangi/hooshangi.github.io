@@ -25,6 +25,13 @@ var fun = function lang(l) {
   dateformat.i18n = require('./lang/' + l)
   return true;
 }
+
+```
+```python
+# some python code 
+a=2
+print("A is  {}".format(a))
+
 ```
 
 ```ruby
