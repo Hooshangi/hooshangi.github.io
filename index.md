@@ -1,6 +1,3 @@
-<--! **POP QUIZ**: 
-Participate in our Pop-Quizes at: ![Socrative](logo_new_socrative.png) -->
-
 
 **POP QUIZ (PQ)**: 
 
