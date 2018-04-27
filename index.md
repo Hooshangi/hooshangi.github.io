@@ -1,10 +1,9 @@
 **POP QUIZ**: 
 Participate in our Pop-Quizes at: ![Socrative](logo_new_socrative.png) 
 
-_https://b.socrative.com/login/student/_ 
 
-Participate in our Pop-Quizes at: <a href="https://b.socrative.com/login/student/"> ![Socrative](logo_new_socrative.png) 
-<!-- <img scr="logo_new_socrative.png" alt="W3Schools" src="logo_w3s.gif" width="20" height="20"> -->
+**POP QUIZ (PQ)**: 
+Participate in our PQs at: <a href="https://b.socrative.com/login/student/"> ![Socrative](logo_small_socrative.png) 
 </a>
 
 # Header 1
