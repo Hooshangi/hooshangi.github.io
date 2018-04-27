@@ -2,7 +2,8 @@
 Participate in our Pop-Quizes at:
 _https://b.socrative.com/login/student/_ 
 ### Small image
-![Octocat](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
+
+![Socrative](source/logo_new_socrative.png)
 
 # Header 1
 We will discuss the details of the course in this section. 
