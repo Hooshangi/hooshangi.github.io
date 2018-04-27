@@ -1,16 +1,13 @@
-
-This is a test for a website. 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
+**POP QUIZ**: 
+Participate in our Pop-Quizes at:
+_https://b.socrative.com/login/student/_ 
+### Small image
+![Octocat](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
 
 # Header 1
-
 We will discuss the details of the course in this section. 
 ## Header 2
-
 > More information will be provided later. 
-
-### Header 3
 
 
 ```python code will be displayed here
