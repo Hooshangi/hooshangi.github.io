@@ -3,7 +3,7 @@ Participate in our Pop-Quizes at: ![Socrative](logo_new_socrative.png)
 
 
 **POP QUIZ (PQ)**: 
-Participate in our PQs at: <a href="https://b.socrative.com/login/student/"> ![Socrative](logo_small_socrative.png) 
+Participate in our PQs at: <a href="https://b.socrative.com/login/student/"> ![Socrative](logo_small_socrative.png)  
 </a>
 
 # Header 1
