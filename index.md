@@ -1,9 +1,10 @@
 **POP QUIZ**: 
-Participate in our Pop-Quizes at:
-_https://b.socrative.com/login/student/_ 
-### Small image
-
+Participate in our Pop-Quizes at: 
+### Small image 
 ![Socrative](logo_new_socrative.png) 
+
+_https://b.socrative.com/login/student/_ 
+
 
 # Header 1
 We will discuss the details of the course in this section. 
