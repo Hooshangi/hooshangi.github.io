@@ -281,13 +281,18 @@ Full-Width Styles
   border-bottom-right-radius: 2px;
 }
 
+// #header_wrap {
+//   background: #212121;
+//   background: -moz-linear-gradient(top, #0096d6, #0096d6);
+//   background: -webkit-linear-gradient(top, #0096d6, #0096d6);
+//   background: -ms-linear-gradient(top, #373737,#0096d6);
+//   background: -o-linear-gradient(top, #373737, #0096d6);
+//   background: linear-gradient(to top, #373737, #0096d6);
+// }
+
 #header_wrap {
-  background: #212121;
-  background: -moz-linear-gradient(top, #0096d6, #0096d6);
-  background: -webkit-linear-gradient(top, #0096d6, #0096d6);
-  background: -ms-linear-gradient(top, #373737,#0096d6);
-  background: -o-linear-gradient(top, #373737, #0096d6);
-  background: linear-gradient(to top, #373737, #0096d6;
+  background: #0096d6;
+  
 }
 
 #header_wrap .inner {
