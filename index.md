@@ -3,8 +3,8 @@ Participate in our Pop-Quizes at: ![Socrative](logo_new_socrative.png)
 
 _https://b.socrative.com/login/student/_ 
 
-Participate in our Pop-Quizes at: <a href="https://b.socrative.com/login/student/">
-<img scr="logo_new_socrative.png" alt="W3Schools" src="logo_w3s.gif" width="20" height="20">
+Participate in our Pop-Quizes at: <a href="https://b.socrative.com/login/student/"> ![Socrative](logo_new_socrative.png) 
+<!-- <img scr="logo_new_socrative.png" alt="W3Schools" src="logo_w3s.gif" width="20" height="20"> -->
 </a>
 
 # Header 1
