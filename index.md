@@ -5,8 +5,9 @@ Participate in our PQs at: <a href="https://b.socrative.com/login/student/" targ
 
 
 
-# Header 1 
-We will discuss the details of the course in this section. 
+### Useful links: 
+<a href="https://docs.python.org/3/faq/design.html#how-does-python-manage-memory" target="_blank">Python memory managment</a>
+
 ## Header 2
 > More information will be provided later. 
 
