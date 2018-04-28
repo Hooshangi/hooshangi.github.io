@@ -3,7 +3,7 @@
 Participate in our PQs at: <a href="https://b.socrative.com/login/student/" target="_blank"> ![Socrative](images/logo_small_socrative.png)  
 </a>
 
-### Follow along and visulize your code  
+### Follow along and visualize your code  
 *   <a href="http://pythontutor.com/live.html#mode=edit" target="_blank">Live programming</a>
 
 
