@@ -5,8 +5,15 @@ Participate in our PQs at: <a href="https://b.socrative.com/login/student/" targ
 
 
 
-### Useful links: 
-<a href="https://docs.python.org/3/faq/design.html#how-does-python-manage-memory" target="_blank">Python memory managment</a>
+### Useful links:
+Python Official Documentation
+*<a href="https://docs.python.org/3/faq/design.html#how-does-python-manage-memory" target="_blank">How does Python manage memory?</a>
+*<a href="https://docs.python.org/3/faq/design.html#how-are-lists-implemented" target="_blank"> How are lists implemented?  implementation</a>
+*<a href="https://docs.python.org/3/c-api/memory.html?highlight=memory" target="_blank"> Indept overview of memory </a>
+
+
+
+
 
 ## Header 2
 > More information will be provided later. 
