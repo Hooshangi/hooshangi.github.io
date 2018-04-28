@@ -1,7 +1,9 @@
 
-**POP QUIZ (PQ)**:  Participate in our PQs at: <a href="https://b.socrative.com/login/student/" target="_blank"> ![Socrative](images/logo_small_socrative.png)  
+## Header 2 
+POP QUIZ (PQ)
+<p>Participate in our PQs at: <a href="https://b.socrative.com/login/student/" target="_blank"> ![Socrative](images/logo_small_socrative.png)  
 </a>
-
+</p>
 
 
 # Header 1 
@@ -45,14 +47,6 @@ Table will be here
   - level 2 item
     - level 3 item
     - level 3 item
-
-### Small image
-
-![Octocat](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
 
 
 ```
