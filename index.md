@@ -12,18 +12,15 @@ Python Official Documentation
 *   <a href="https://docs.python.org/3/c-api/memory.html?highlight=memory" target="_blank"> Indept overview of memory </a>
 
 
+### Class Code 
 
-
-
-## Header 2
-> More information will be provided later. 
 
 
 ```python code will be displayed here
 # some python code 
 a=2
 print("A is  {}".format(a))
-```
+'''
 
 
 #### Header 4
@@ -31,6 +28,7 @@ print("A is  {}".format(a))
 *   List will be here.
 *   And here
 1.  And some more.
+ <--! More information will be provided later. -->
 
 ###### Header 6
 Table will be here
