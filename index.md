@@ -17,7 +17,7 @@ Participate in quizzes at: <a href="https://b.socrative.com/login/student/" targ
 
 ### Class code 
 
-##### Create a node class and link nodes
+#### Create a node class and link nodes
 ```python
 #Node class declaration and instantiation
 class Node:
@@ -36,9 +36,9 @@ two.next=five
 five.next=twenty
 ```
 
-Create a linked list class 
-Add new node to the beginning of the linked list
-The head will always point to the most recently added node
+#### Create a linked list class 
+#### Add new node to the beginning of the linked list
+#### The head will always point to the most recently added node
 
 ```python
 # Create a linked list
@@ -63,7 +63,7 @@ mylist.add(5)
 mylist.add(2)
 ```
 
-A more Pythonic approach
+#### A more Pythonic approach
 
 ```python
 class Node:
