@@ -17,7 +17,7 @@ Participate in quizzes at: <a href="https://b.socrative.com/login/student/" targ
 
 ### Class code 
 
-#####Create a node class and link nodes
+##### Create a node class and link nodes
 ```python
 #Node class declaration and instantiation
 class Node:
