@@ -15,9 +15,9 @@ Participate in quizzes at: <a href="https://b.socrative.com/login/student/" targ
 *   <a href="https://wiki.python.org/moin/TimeComplexity" target="_blank"> Time-complexity ("Big O") in Python</a>
 
 
-### Class Code 
+### Class code 
 
-Create a node class and links nodes
+#####Create a node class and link nodes
 ```python
 #Node class declaration and instantiation
 class Node:
