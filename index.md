@@ -1,7 +1,7 @@
 
 
 
-Participate in quizzes at: <a href="https://b.socrative.com/login/student/" target="_blank"> ![Socrative](images/logo_small_socrative.png)  
+Enter SHOOSH room and participate in the quiz at: <a href="https://b.socrative.com/login/student/" target="_blank"> ![Socrative](images/logo_small_socrative.png)  
 </a>
 
 ### Follow along and visualize your code  
