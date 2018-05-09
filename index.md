@@ -15,9 +15,9 @@ Participate in quizzes at: <a href="https://b.socrative.com/login/student/" targ
 *   <a href="https://wiki.python.org/moin/TimeComplexity" target="_blank"> Time-complexity ("Big-Oh") in Python</a>
 
 
-### Class code 
+### In-class sample codes 
 
-##### Create a node class and link nodes
+##### Create a node class, instantiate node objects, and then link the nodes
 ```python
 #Node class declaration and instantiation
 class Node:
@@ -46,14 +46,17 @@ The head will always point to the most recently added node.
 
 class Node:
     def __init__(self,data):
+        # The constructor
         self.data = data
         self.next = None
 
 class LinkedList:
     def __init__(self):
+        # The constructor
         self.head = None
         
     def add(self,data):
+        # A method to add nodes to the beginning of the list
         new_node=Node(data)
         new_node.next=self.head
         self.head=new_node
