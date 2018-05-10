@@ -43,7 +43,6 @@ The head will always point to the most recently added node.
 
 ```python
 # Create a linked list
-
 class Node:
     def __init__(self,data):
         # The constructor
@@ -68,16 +67,17 @@ mylist.add(2)
 ```
 
 
-
 ##### Traverse and search
 ```python
 class Node:
     def __init__(self,data):
+        # The constructor
         self.data = data
         self.next = None 
   
 class LinkedList:
     def __init__(self):
+        # The constructor
         self.head = None
 
     def add(self,data):
@@ -86,6 +86,7 @@ class LinkedList:
         self.head=new_node
               
     def walk_through(self):
+        #use an external reference to go through the nodes
         current = self.head
         while current != None :
             print(current.data)
@@ -99,7 +100,6 @@ class LinkedList:
                 found = True
             else:
                 current = current.next
-
         return found              
             
 
