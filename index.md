@@ -69,7 +69,7 @@ mylist.add(2)
 
 
 
-##### Traverse and research
+##### Traverse and search
 ```python
 class Node:
     def __init__(self,data):
