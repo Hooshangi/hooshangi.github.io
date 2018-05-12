@@ -186,6 +186,9 @@ class Queue:
     def dequeue(self):
         if (self.is_empty()):
             raise IndexError("empty list")  
+        
+        if not self.head:
+            self.tail = None # reset tail when empty
         temp=self.head
         self.head=self.head.next
         popped=temp.data
